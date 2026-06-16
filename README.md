@@ -51,4 +51,3 @@ npm run build
 - Set the same `VITE_BASE_URL` to your deployed backend URL.
 - Set backend env vars (`MONGO_URI`, `SECRET_KEY`, `TMDB_API_KEY`) in your host.
 - Ensure CORS origin allows your frontend domain.
-# FlickDeck
